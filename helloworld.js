@@ -1,5 +1,4 @@
-/**
- * Created by ppuk on 17-9-13.
- */
- 
-console.log("Hello World!");
+for(i = 0; i < 273; i++)
+{
+    console.log("Hello World " + i);
+}
